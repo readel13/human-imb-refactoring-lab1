@@ -23,3 +23,4 @@ a project, why it is not placed in separate README file in the root of the proje
 20. Test doesn't cover all cases 
 21. In case, if we need to keep this class as not utility, it will be better to override default impls of equals and hashcode methods
 22. Project names as untitled11
+23. Weight and Height need to be specified in which metric they are stored(meters, kilograms)
